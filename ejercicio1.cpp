@@ -14,4 +14,5 @@ int main() {
 	cin >> radio;
 	area = areaCirculo( radio );
 	cout << "El area del circulo es:" << area;
+	return 0;
 }
