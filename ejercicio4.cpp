@@ -50,4 +50,5 @@ int main() {
 		cout << "Primera raiz: " << parteReal << " + " << parteImaginaria << "i" << endl;
 		cout << "Segunda raiz: " << parteReal << " - " << parteImaginaria << "i" << endl;
 	}
+	return 0;
 }

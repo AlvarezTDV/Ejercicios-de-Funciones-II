@@ -40,4 +40,5 @@ int main() {
 		cout << "Primera raiz: " << raiz1 << " + " << raiz2 << "i" << endl;
 		cout << "Segunda raiz: " << raiz1 << " - " << raiz2 << "i" << endl;
 	}
+	return 0;
 }
